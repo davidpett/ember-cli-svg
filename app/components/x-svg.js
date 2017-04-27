@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-svg/components/x-svg';
